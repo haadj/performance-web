@@ -14,9 +14,7 @@
   <li>[dareboost.com](https://www.dareboost.com/fr/compare)'s two page comparison</li>
 </details>
 
-<details>
-  <summary>Mobile first rendering (media queries set by min-width)</summary>
-</details>
+➤ Mobile first rendering (media queries set by min-width)\n
 
 <details open>
   <summary>Limit DNS Lookups, HTTP requests and dependencies</summary>
