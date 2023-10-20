@@ -3,7 +3,7 @@
 # performance-web
 
 > ➤ Definition of KPIs  
-\➤ Testing tools (Waterfall, Breakdown, Connection, Latency)  
+/➤ Testing tools (Waterfall, Breakdown, Connection, Latency)  
 - Google Chrome DevTools and  [Lighthouse opportunities](https://developer.chrome.com/docs/lighthouse/performance/)  
 - [gtmetrix.com](https://gtmetrix.com/)  
 - [webpagetest.org](https://www.webpagetest.org/)  
