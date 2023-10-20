@@ -2,9 +2,7 @@
 <!-- This content will not appear in the rendered Markdown -->
 # performance-web
 
-> <details>
->  <summary>Definition of KPIs</summary>
-> </details>
+> ➤ Definition of KPIs  
 
 <details open>
   <summary>Testing tools (Waterfall, Breakdown, Connection, Latency)</summary>
