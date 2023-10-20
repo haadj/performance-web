@@ -8,8 +8,8 @@
 - [gtmetrix.com](https://gtmetrix.com/)  
 - [webpagetest.org](https://www.webpagetest.org/)  
 - [dareboost.com](https://www.dareboost.com/fr/compare)'s two page comparison##
-\➤ Mobile first rendering (media queries set by min-width)  
-\➤ Limit DNS Lookups, HTTP requests and dependencies  
+/➤ Mobile first rendering (media queries set by min-width)  
+/➤ Limit DNS Lookups, HTTP requests and dependencies  
 - remove iframe  
 - JS files loaded only before </body> (closing tag)  
 - images, icons and fonts embedded through data URI scheme (or inline SVG | custom font - icomoon.io)  
