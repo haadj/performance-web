@@ -9,6 +9,7 @@
 > - [gtmetrix.com](https://gtmetrix.com/)  
 > - [webpagetest.org](https://www.webpagetest.org/)  
 > - [dareboost.com](https://www.dareboost.com/fr/compare)'s two page comparison  
+##
 ➤ Mobile first rendering (media queries set by min-width)  
 ➤ Limit DNS Lookups, HTTP requests and dependencies  
 - remove iframe  
