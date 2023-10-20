@@ -2,14 +2,14 @@
 <!-- This content will not appear in the rendered Markdown -->
 # performance-web
 
-> ➤ Definition of KPIs  
-/➤ Testing tools (Waterfall, Breakdown, Connection, Latency)  
+> ➤ Definition of KPIs<br/>
+➤ Testing tools (Waterfall, Breakdown, Connection, Latency)<br/>
 - Google Chrome DevTools and  [Lighthouse opportunities](https://developer.chrome.com/docs/lighthouse/performance/)  
 - [gtmetrix.com](https://gtmetrix.com/)  
 - [webpagetest.org](https://www.webpagetest.org/)  
-- [dareboost.com](https://www.dareboost.com/fr/compare)'s two page comparison##
-/➤ Mobile first rendering (media queries set by min-width)  
-/➤ Limit DNS Lookups, HTTP requests and dependencies  
+- [dareboost.com](https://www.dareboost.com/fr/compare)'s two page comparison<br/>
+➤ Mobile first rendering (media queries set by min-width)<br/>
+➤ Limit DNS Lookups, HTTP requests and dependencies<br/>
 - remove iframe  
 - JS files loaded only before </body> (closing tag)  
 - images, icons and fonts embedded through data URI scheme (or inline SVG | custom font - icomoon.io)  
