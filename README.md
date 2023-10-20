@@ -8,13 +8,13 @@
 
 <details open>
   <summary>Testing tools (Waterfall, Breakdown, Connection, Latency)</summary>
-  <li>Google Chrome DevTools and  [Lighthouse opportunities](https://developer.chrome.com/docs/lighthouse/performance/)</li>
-  <li>[gtmetrix.com](https://gtmetrix.com/)</li>
-  <li>[webpagetest.org](https://www.webpagetest.org/)</li>
-  <li>[dareboost.com](https://www.dareboost.com/fr/compare)'s two page comparison</li>
+  - Google Chrome DevTools and  [Lighthouse opportunities](https://developer.chrome.com/docs/lighthouse/performance/)  
+  - [gtmetrix.com](https://gtmetrix.com/)  
+  - [webpagetest.org](https://www.webpagetest.org/)  
+  - [dareboost.com](https://www.dareboost.com/fr/compare)'s two page comparison  
 </details>
 
-➤ Mobile first rendering (media queries set by min-width)\
+➤ Mobile first rendering (media queries set by min-width)<br/>
 
 <details open>
   <summary>Limit DNS Lookups, HTTP requests and dependencies</summary>
